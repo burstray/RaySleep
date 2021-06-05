@@ -1,0 +1,7 @@
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\bin\Debug\RaySleep.exe
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\bin\Debug\RaySleep.pdb
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\obj\Debug\RaySleep.csprojResolveAssemblyReference.cache
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\obj\Debug\RaySleep.Properties.Resources.resources
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\obj\Debug\RaySleep.csproj.GenerateResource.Cache
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\obj\Debug\RaySleep.exe
+D:\!Sync\Dev.Proj\RaySleep\RaySleep\obj\Debug\RaySleep.pdb
